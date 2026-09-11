@@ -1,0 +1,16 @@
+# Input and generated data are not distributed with this repository
+data/*.xlsx
+data/*.csv
+Tables/
+final run/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store

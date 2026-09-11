@@ -1,0 +1,10 @@
+# Analysis stack for the headway distribution / AFT pipeline
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11            # distribution fitting, goodness-of-fit tests
+statsmodels>=0.14      # AFT models, VIF diagnostics
+openpyxl>=3.1          # Excel read/write
+joblib>=1.3
+matplotlib>=3.7
+jupyterlab>=4.0
+ipython>=8.0
